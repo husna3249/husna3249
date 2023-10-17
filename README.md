@@ -13,10 +13,7 @@
   - 🌱 I have a keen interest in NFTs and have managed multiple NFT projects.<br><br>
   - 🗺️ I enjoy attending blockchain conferences and webinars to stay updated on the latest trends and technologies.<br><br>
 </p>
-<h3 align="left">🛠 Language and Tools</h3>
-<div align="left">
-  <!-- Existing icons -->
-</div>
+ 
 <h3 align="left">🔥 My Stats :</h3>
 <div align="center">
   <!-- Existing graphs -->
